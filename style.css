@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background-color: #dbdbdb;
+}
+
+#szovegek{
+    text-align: center;
+    display: flex;
+   align-content: center;
+   justify-content: center;
+}
+
+
+
+a{
+    font-family: 'ABeeZee', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+h3{
+    font-family: 'Secular One', sans-serif;
+color: white;
+margin-left: 20px;
+
+
+}
+
+
+
+.boxes{
+ border-style: solid;
+ background-color: #2C2C2C;
+ color: #2C2C2C;
+padding: 2px;
+}
+
+
+
+.elemek{
+  
+        display: flex;
+       align-content: center;
+       justify-content: center;
+}
+
+.elemek div{
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+    align-items: center;
+margin: 20px;
+width: 50%;
+}
+
+
+button{
+    cursor: pointer;
+    font-family: 'Secular One', sans-serif;
+
+}
